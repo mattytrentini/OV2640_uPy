@@ -1,0 +1,11 @@
+{
+  "urls": [
+    ["ov2640.py", "github:namato/OV2640_uPy/ov2640.py"],
+    ["ov2640_config.py", "github:namato/OV2640_uPy/ov2640_config.py"],
+    ["ov2640_constants.py", "github:namato/OV2640_uPy/ov2640_constants.py"],
+    ["ov2640_hires_constants.py", "github:namato/OV2640_uPy/ov2640_hires_constants.py"],
+    ["ov2640_lores_constants.py", "github:namato/OV2640_uPy/ov2640_lores_constants.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
